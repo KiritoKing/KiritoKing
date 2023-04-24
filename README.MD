@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" width="100"/>
-  <h2>Chlorine Chen</h2>
+  <h3>Chlorine Chen</h3>
   keep coding, keep learning
 </div>
 <div id="badges" align="center">
@@ -20,6 +20,7 @@
         <img src="https://img.shields.io/github/followers/KiritoKing?style=social" alt="Github Followers"/>
     </div>
 </div>
+
 
 
 ## :handshake: Nice to see ya~
@@ -44,7 +45,6 @@ Hopefully, those information can help you for your career as a pro coder. I'd ap
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" />&nbsp;
 </div>
-
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiritoKing" alt="Top Langs" />](https://github.com/anuraghazra/github-readme-stats)
 
 ---
