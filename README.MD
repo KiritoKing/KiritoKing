@@ -45,13 +45,13 @@ Hopefully, those information can help you for your career as a pro coder. I'd ap
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" />&nbsp;
 </div>
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiritoKing" alt="Top Langs" />](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiritoKing)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## :fire:My Stats Board
 
-[<img src="https://github-readme-stats.vercel.app/api?username=KiritoKing" alt="Anurag's GitHub stats" />](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiritoKing)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://streak-stats.demolab.com?user=KiritoKing&border_radius=5" alt="GitHub Streak" />](https://git.io/streak-stats)
 
