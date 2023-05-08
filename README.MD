@@ -65,6 +65,7 @@ The following links are repos for courses at HUST:
 - [Embedding Development/嵌入式开发](https://github.com/KiritoKing/HUST-Embedding-2022)
 - [PHP/动态网页设计（公选课）](https://github.com/KiritoKing/HUST-PHP-2022)
 - [Kingsoft Front-end/金山文档前端企业课](https://github.com/KiritoKing/HUST-Kingsoft-2022)
+- [Python/Python程序设计（公选课）](https://github.com/KiritoKing/HUST-Python-2023)
 
 ## :paperclip: Projects
 
