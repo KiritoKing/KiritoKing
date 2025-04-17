@@ -23,13 +23,18 @@
 
 
 
+
 ## :handshake: Nice to see ya~
 
-I am a **computer science** student at HUST:cn: (Huazhong University of Science and Technology, Wuhan, China), and I decided to share the codes I wrote for those CS courses as well as some other open-source projects that I work on. Besides, I mainly work on **front-end and .NET** developing.
+Guaguated from **HUST:cn:**  (Huazhong University of Science and Technology, Wuhan, China) studying CS major, I'm currently working at Bytedance, Beijing, China as a frontend developer.
+
+I mainly write React codes, but can also write some backend codes using NodeJS, Golang and C#. BTW, C# has always been my favorite programming language.
+
+Here in Github, I will share all the codes I wrote for those CS courses as well as some other open-source projects that I work on in my part time.
 
 Hopefully, those information can help you for your career as a pro coder. I'd appreciate it if you can **give me a star~**
 
-> 本科为**华中科技大学2020级**计算机系，这里分享了一些课程的代码（注意年份）和我在做的一些项目代码，能开源的都开源了，可能还有一些博客之类杂七杂八的东西。其他项目的话主要集中在**前端和.NET**客户端上，也。可能有些其他的尝试性项目
+> 现在在字节跳动打工写前端，本科为**华中科技大学2020级**计算机系，这里分享了一些课程的代码（注意年份）和我在做的一些项目代码，能开源的都开源了，可能还有一些博客之类杂七杂八的东西。其他项目的话主要集中在**前端和.NET**客户端上，也。可能有些其他的尝试性项目
 >
 > 总之需要的自取就行，不过还是鼓励自主思考，仅供参考，不建议直接抄。
 >
@@ -45,6 +50,7 @@ Hopefully, those information can help you for your career as a pro coder. I'd ap
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" />&nbsp;
 </div>
+
 
 
 ---
