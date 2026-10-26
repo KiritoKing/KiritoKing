@@ -76,3 +76,7 @@ The following links are repos for courses at HUST:
 ## :paperclip: Projects
 
 You can see the projects I am proud of in my **Pinned Repos** below.
+
+## Personal productivity components
+
+- [Obsidian plugins](https://github.com/KiritoKing/obsidian-plugins): an Auto Link Title source fork and a local Chrome profile title bridge, tracked here as the `tools/obsidian-plugins` submodule.

@@ -1,0 +1,3 @@
+[submodule "tools/obsidian-plugins"]
+	path = tools/obsidian-plugins
+	url = https://github.com/KiritoKing/obsidian-plugins.git
